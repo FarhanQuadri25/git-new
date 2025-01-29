@@ -1,3 +1,3 @@
-## Hello,git! This is from dev-farhan
+## Hello
 -I'm adding this feature branch
 -Hello everyone this is from dev-farhan to new-dev
